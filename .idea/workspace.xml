@@ -9,13 +9,17 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23f0ba8e-a68b-41e3-82cd-732c4efcafdf" name="Default Changelist" comment="" />
+    <list default="true" id="23f0ba8e-a68b-41e3-82cd-732c4efcafdf" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/iambored/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/iambored/MainActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[192.168.1.96:5555]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -40,6 +44,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="192.168.1.96:5555" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-06-23T11:38:18.044Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -137,12 +143,22 @@
       <option name="presentableId" value="Default" />
       <updated>1624375639928</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1624446276161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624446276161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="29" y="110" key="#PSD" timestamp="1624376148925">
@@ -161,38 +177,38 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="292" y="118" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1624397764609" />
-    <state x="285" y="257" width="476" height="205" key="Github.ShareDialog" timestamp="1624445999189">
+    <state x="285" y="257" width="476" height="205" key="Github.ShareDialog" timestamp="1624446128843">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="285" y="257" width="476" height="205" key="Github.ShareDialog/0.0.1024.728@0.0.1024.728" timestamp="1624445999189" />
-    <state x="249" y="69" key="Github.UntrackedFilesDialog" timestamp="1624445331137">
+    <state x="285" y="257" width="476" height="205" key="Github.ShareDialog/0.0.1024.728@0.0.1024.728" timestamp="1624446128843" />
+    <state x="249" y="69" key="Github.UntrackedFilesDialog" timestamp="1624446136242">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="249" y="69" key="Github.UntrackedFilesDialog/0.0.1024.728@0.0.1024.728" timestamp="1624445331137" />
-    <state width="981" height="255" key="GridCell.Tab.0.bottom" timestamp="1624446002771">
+    <state x="249" y="69" key="Github.UntrackedFilesDialog/0.0.1024.728@0.0.1024.728" timestamp="1624446136242" />
+    <state width="981" height="370" key="GridCell.Tab.0.bottom" timestamp="1624448336400">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="255" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1624446002771" />
-    <state width="981" height="255" key="GridCell.Tab.0.center" timestamp="1624446002770">
+    <state width="981" height="370" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1624448336400" />
+    <state width="981" height="370" key="GridCell.Tab.0.center" timestamp="1624448336400">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="255" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1624446002770" />
-    <state width="981" height="255" key="GridCell.Tab.0.left" timestamp="1624446002770">
+    <state width="981" height="370" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1624448336400" />
+    <state width="981" height="370" key="GridCell.Tab.0.left" timestamp="1624448336400">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="255" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1624446002770" />
-    <state width="981" height="255" key="GridCell.Tab.0.right" timestamp="1624446002771">
+    <state width="981" height="370" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1624448336400" />
+    <state width="981" height="370" key="GridCell.Tab.0.right" timestamp="1624448336400">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="255" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1624446002771" />
-    <state x="13" y="8" key="SettingsEditor" timestamp="1624446073876">
+    <state width="981" height="370" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1624448336400" />
+    <state x="13" y="8" key="SettingsEditor" timestamp="1624446089604">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="13" y="8" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1624446073876" />
-    <state x="104" y="96" key="Vcs.Push.Dialog.v2" timestamp="1624445745926">
+    <state x="13" y="8" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1624446089604" />
+    <state x="104" y="96" key="Vcs.Push.Dialog.v2" timestamp="1624446413490">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="104" y="96" key="Vcs.Push.Dialog.v2/0.0.1024.728@0.0.1024.728" timestamp="1624445745926" />
+    <state x="104" y="96" key="Vcs.Push.Dialog.v2/0.0.1024.728@0.0.1024.728" timestamp="1624446413490" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

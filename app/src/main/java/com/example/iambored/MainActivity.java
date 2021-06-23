@@ -2,7 +2,9 @@ package com.example.iambored;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
@@ -72,7 +74,11 @@ public class MainActivity extends AppCompatActivity {
     BoredApiHelper.BoredResult boredResult = new BoredApiHelper.BoredResult() {
         @Override
         public void gotActivity(String activity) {
-            activityTv.setText(activity);
+            if (activity != null) {
+                activityTv.setText(activity);
+            } else {
+                activityTv.setText("No activity for the selected parameters");
+            }
         }
     };
 
