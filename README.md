@@ -4,6 +4,8 @@ I'm Bored - an app that offers the bored person some fun activities. The project
 
 GET requests are made using the Retrofit 2 library.
 
+APK: https://drive.google.com/drive/folders/1GlaX4jkWpdtBfhjnlgUJfFdg9ic_tzpt?usp=sharing
+
 Video: 
 
 https://youtu.be/qYkZyd_YANI
